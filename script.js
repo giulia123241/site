@@ -6,7 +6,7 @@ const botoesAdicionar = document.querySelectorAll ('.adicionar');
 const listaPedido = document.getElementById ('lista-pedido')
 
 //Seleciona o elemento que exibirá o valor total do pedido
-const totalElement = document.getElementById('total');
+const totalElemento = document.getElementById('total');
 
 //Cria variável que armazena o valor total dos pedidos
 let total = 0;
